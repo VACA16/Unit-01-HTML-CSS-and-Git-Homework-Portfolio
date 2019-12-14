@@ -1,0 +1,42 @@
+body{
+    margin-top: 0px;
+    background-image: url(../images/5-dots.png);
+}
+
+.wrapper{
+    bottom: -10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    overflow: auto;
+    clear: both;
+    color: #000000;
+    background: #ffffff;
+    border-bottom: 8px solid #848888;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.main_bio{
+    padding: 20px;
+    margin: 8% auto;
+    width: 930px;
+    overflow: auto;
+    clear: both;
+    color: #000000;
+    background: #ffffff;
+    border: 8px solid #848888;
+}
+
+
+.footer{
+    border-top: 8px solid #848888;
+    padding: 50px;
+    clear: both;
+    background: #ffffff;
+}
+
+
